@@ -1,0 +1,25 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahim-Khan-P/webPack-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fahim-Khan-P/webPack-Practice/issues"
+  },
+  "homepage": "https://github.com/Fahim-Khan-P/webPack-Practice#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
